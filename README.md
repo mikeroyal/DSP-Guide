@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/130368423-65b10b6e-941e-4427-b10e-4c92e239bd1b.png">
   <br />
  Digital Signal Processing(DSP) Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/130368432-97e8d3dc-061d-4421-b850-c22ac5b2ca67.png">
   <br />
 </p>
 
