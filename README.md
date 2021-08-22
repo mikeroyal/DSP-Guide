@@ -48,7 +48,7 @@
     - Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     - Magnetic flux and Faraday's law
 
-11. [Electromagnetic waves and interference](https://github.com/mikeroyal/DPS-Guide#electromagnetic-waves-and-interference)
+11. [Electromagnetic waves and interference](https://github.com/mikeroyal/DSP-Guide#electromagnetic-waves-and-interference)
 
     - Introduction to electromagnetic waves: Electromagnetic waves and interference
     - Interference of electromagnetic waves
@@ -591,7 +591,7 @@
 </p>
 
 # Electric charge, field, and potential
-[Back to the Top](https://github.com/mikeroyal/DPS-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
 
      - Charge and electric force (Coulomb's law): Electric charge, field, and potential
      - Electric field: Electric charge, field, and potential
@@ -610,7 +610,7 @@
 </p>
 
 # Circuits
-[Back to the Top](https://github.com/mikeroyal/DPS-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
 
     - Ohm's law and circuits with resistors: Circuits
     - Circuits with capacitors: Circuits
