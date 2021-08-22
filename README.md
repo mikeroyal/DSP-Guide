@@ -16,9 +16,9 @@
 
 # Table of Contents
 
-1. [Digital Signal Processing(DSP) Learning Resources](https://github.com/mikeroyal/DSP-Guide#Digital-Signal-Processing-DSP-learning-resources)
+1. [Digital Signal Processing(DSP) Learning Resources](https://github.com/mikeroyal/DSP-Guide#digital-signal-processingdsp-learning-resources)
 
-2. [Digital Signal Processing(DSP) Tools and Frameworks](https://github.com/mikeroyal/DSP-Guide#Digital-Signal-Processing-DSP-tools-and-frameworks)
+2. [Digital Signal Processing(DSP) Tools and Frameworks](https://github.com/mikeroyal/DSP-Guide#digital-signal-processingdsp-tools-libraries-and-frameworks)
 
 3. [Computer Vision Development](https://github.com/mikeroyal/DSP-Guide#computer-vision-development)
 
@@ -30,18 +30,18 @@
 
 7. [Differential Equations](https://github.com/mikeroyal/DSP-Guide#differential-equations)
 
-8. [Electric charge, field, and potential](https://github.com/mikeroyal/DPS-Guide#electric-charge-field-and-potential)
+8. [Electric charge, field, and potential](https://github.com/mikeroyal/DSP-Guide#electric-charge-field-and-potential)
 
      - Charge and electric force (Coulomb's law): Electric charge, field, and potential
      - Electric field: Electric charge, field, and potential
      - Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-9. [Circuits](https://github.com/mikeroyal/DPS-Guide#Circuits)
+9. [Circuits](https://github.com/mikeroyal/DSP-Guide#circuits)
 
     - Ohm's law and circuits with resistors: Circuits
     - Circuits with capacitors: Circuits
 
-10. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/DPS-Guide#magnetic-forces-magnetic-fields-and-Faradays-law)
+10. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/DSP-Guide#electromagnetic-waves-and-interference)
 
     - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     - Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
