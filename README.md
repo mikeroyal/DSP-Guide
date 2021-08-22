@@ -659,7 +659,7 @@
  **Farady's law. Source: [sdsu-physics](http://sdsu-physics.org/physics180/physics196/Topics/faradaysLaw.html)**
 
 # Electromagnetic waves and interference
-[Back to the Top](https://github.com/mikeroyal/DPS-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
 
     - Introduction to electromagnetic waves: Electromagnetic waves and interference
     - Interference of electromagnetic waves
